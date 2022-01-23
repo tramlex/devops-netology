@@ -13,4 +13,5 @@
 # are not checked in
 
 # Ignore CLI configuration files
-new line
+
+edited with PyCharm
