@@ -13,3 +13,4 @@
 # are not checked in
 
 # Ignore CLI configuration files
+new line
